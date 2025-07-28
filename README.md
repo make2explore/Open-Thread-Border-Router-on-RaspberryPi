@@ -24,7 +24,7 @@ free -m
 ### 🔽 Download Precompiled Firmware (Recommended)
 
 Download the RCP firmware binary from the official repository:  
-**[Download Link]** *(https://github.com/make2explore/Open-Thread-Border-Router-on-RaspberryPi/archive/refs/heads/main.zip)*
+**[Download Link]** (https://github.com/make2explore/Open-Thread-Border-Router-on-RaspberryPi/archive/refs/heads/main.zip)
 
 ### 💡 Flash using nRF Connect for Desktop
 
