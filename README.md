@@ -21,7 +21,7 @@ free -m
 
 ## 🛠️ Step 1: Flash RCP Firmware to nRF52840 Dongle  
   
-### 🔨 Build your own RCP Firmware from scratch (Optional) - [Link](https://github.com/make2explore/Open-Thread-Border-Router-on-RaspberryPi/tree/main/Build-Your-Own-RCP-Firmware)  
+### 🔨 Build your own RCP Firmware from scratch (Optional) - [GUIDE](https://github.com/make2explore/Open-Thread-Border-Router-on-RaspberryPi/tree/main/Build-Your-Own-RCP-Firmware)  
   
 ### 🔽 Download Precompiled Firmware (Recommended)
 
