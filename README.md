@@ -62,10 +62,15 @@ git clone https://github.com/openthread/ot-br-posix
 cd ot-br-posix/
 ```
 
-### ⚙️ Bootstrap and Setup
+### ⚙️ Bootstrap
 
 ```bash
 WEB_GUI=1 NAT64=1 NAT64_SERVICE=openthread ./script/bootstrap
+```
+
+### ⚙️ Setup  
+
+```bash
 INFRA_IF_NAME=wlan0 WEB_GUI=1 ./script/setup
 ```
 
