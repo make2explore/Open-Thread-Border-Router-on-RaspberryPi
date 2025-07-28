@@ -78,9 +78,11 @@ INFRA_IF_NAME=wlan0 WEB_GUI=1 ./script/setup
 
 ## 🌐 Configure and Access Web GUI  
 Web-based configuration interface for the Thread network.  
-Accessible at: `http://<raspberry-pi-ip>/`
-For example : if your Pi's IP is `192.168.0.100` then you will get that WebGUI page at - `http://192.168.0.100:8080`  
-
+- The WebGUI in the OpenThread Border Router (OTBR) setup is a browser-based graphical interface that allows users to manage and monitor the Thread network. 
+- Accessible by visiting the Raspberry Pi’s IP address (e.g., `http://<raspberry-pi-ip>/`), it provides a convenient way to view network status, connected devices, and perform basic operations like network creation or reset—without needing to use command-line tools. 
+- For example : if your Pi's IP is `192.168.0.100` then you will get that WebGUI page at - `http://192.168.0.100:8080`  
+- It's especially useful for users who prefer visual interaction over terminal commands.
+  
 ### 🔧 If WebGUI is not running
 
 Check current web service configuration:
