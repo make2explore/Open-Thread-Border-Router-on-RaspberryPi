@@ -76,7 +76,10 @@ INFRA_IF_NAME=wlan0 WEB_GUI=1 ./script/setup
 
 ---
 
-## 🌐 Configure and Access Web GUI
+## 🌐 Configure and Access Web GUI  
+Web-based configuration interface for the Thread network.  
+Accessible at: http://<raspberry-pi-ip>/
+For example : if your Pi's IP is 192.168.0.100 then you will get that WebGUI page at - http://192.168.0.100:8080  
 
 ### 🔧 If WebGUI is not running
 
