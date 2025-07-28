@@ -19,7 +19,9 @@ free -m
 
 ---
 
-## 🛠️ Step 1: Flash RCP Firmware to nRF52840 Dongle
+## 🛠️ Step 1: Flash RCP Firmware to nRF52840 Dongle  
+  
+### Build your own RCP Firmware from scratch (Optional) - [Link]()
 
 ### 🔽 Download Precompiled Firmware (Recommended)
 
