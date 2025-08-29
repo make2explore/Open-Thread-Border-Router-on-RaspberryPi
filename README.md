@@ -20,11 +20,11 @@ To set the OpenThread Border Router (OTBR) using a Raspberry Pi there are follow
   
 ### Software  
 - Raspberry Pi OS: A recent version of Raspberry Pi OS (either the Lite or Desktop version) installed on the SD card.
-- Raspberry Pi Imager - To flash the OS into SD Card
+- Raspberry Pi Imager - To flash the OS into SD Card.
 - OTBR Software: The OpenThread Border Router software stack, which you will typically download and build from the official GitHub repository, openthread/ot-br-posix.
 - RCP Firmware: The RCP device must be flashed with the correct OpenThread RCP firmware to function as a co-processor.  
 - nRF Connect for Desktop  
-- PuTTY or any other Remote Terminal Access Software
+- PuTTY or any other Remote Terminal Access Software.
   
 
 ------------------------------------------------------------------------------------------------------
