@@ -8,7 +8,7 @@ An **OTBR** on a Raspberry Pi acts as a gateway between an IPv6-based Thread net
   
 ### Prerequisites 🧰
   
-To set the OpenThread Border Router (OTBR) using a Raspberry Pi there are following Hardware software Prerequisites - 
+To set the OpenThread Border Router (OTBR) using a Raspberry Pi there are following Hardware-software Prerequisites - 
   
 ### Hardware
 - Raspberry Pi: A Raspberry Pi 3 or 4 is recommended. A monitor, keyboard, and mouse can be helpful for the initial setup, though you can also use a headless setup with SSH.
@@ -23,7 +23,7 @@ To set the OpenThread Border Router (OTBR) using a Raspberry Pi there are follow
 - Raspberry Pi Imager - To flash the OS into SD Card.
 - OTBR Software: The OpenThread Border Router software stack, which you will typically download and build from the official GitHub repository, openthread/ot-br-posix.
 - RCP Firmware: The RCP device must be flashed with the correct OpenThread RCP firmware to function as a co-processor.  
-- nRF Connect for Desktop  
+- nRF Connect for Desktop.  
 - PuTTY or any other Remote Terminal Access Software.
   
 
