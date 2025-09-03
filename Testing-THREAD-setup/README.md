@@ -33,7 +33,7 @@ dataset init new
 dataset
 ```
 
-### ✏️ Customize Network Settings (Optional)
+### ✏️ Customize Network Settings
 
 You can change parameters such as the channel number or network key:
 
