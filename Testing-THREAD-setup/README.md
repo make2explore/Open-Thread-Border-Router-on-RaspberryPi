@@ -15,7 +15,7 @@ This guide outlines the steps to set up and test a Thread network using a Raspbe
 
 ## 🧪 Create and Start a Thread Network
 
-### 🔧 Open OpenThread CLI
+### 🔧 In terminal Launch OpenThread CLI
 
 ```bash
 sudo ot-ctl
