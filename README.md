@@ -33,7 +33,7 @@ To set the OpenThread Border Router (OTBR) using a Raspberry Pi there are follow
 
 - In this tutorial we will see How to install OTBR on Raspberry Pi  
 
-▶️ [Tutorial]How to install OTBR on Raspberry Pi  - 🔗  https://youtu.be/   
+▶️ [Tutorial]How to install OTBR on Raspberry Pi  - 🔗  https://youtu.be/yplLM87z4gc  
   
 
 -------------------------------------------------------------------------------------------------------
