@@ -1,4 +1,4 @@
-## How to Install OTBR (Open-Thread Border Router) on a Raspberry Pi  
+## How to Install OTBR (OpenThread Border Router) on a Raspberry Pi  
   
 <img src="/Images/m2e-OTBR.jpg" height="200"> 
   
@@ -31,10 +31,11 @@ To set the OpenThread Border Router (OTBR) using a Raspberry Pi there are follow
 
 📕 **YouTube Video Links**  
 
-- In this tutorial we will see How to install OTBR on Raspberry Pi  
+- This project of How to install OTBR on Raspberry Pi  will be divided into two videos
 
-▶️ [Tutorial]How to install OTBR on Raspberry Pi  - 🔗  https://youtu.be/yplLM87z4gc  
+▶️ Tutorial - How to Install OTBR (OpenThread Border Router) on a Raspberry Pi  - 🔗  https://youtu.be/yplLM87z4gc  
   
+▶️ Demo - How to Install OTBR (OpenThread Border Router) on a Raspberry Pi  - 🔗  https://youtu.be/d8k9uCx3reY  
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
